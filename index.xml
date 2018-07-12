@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean Bégaint</title>
-    <link>https://jeanbroid.github.io/</link>
+    <link>https://jbegaint.fr/</link>
     <description>Recent content on Jean Bégaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://jeanbroid.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbegaint.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Region-based models for motion compensation in video compression</title>
-      <link>https://jeanbroid.github.io/publications/region-based-models-for-motion-compensation-in-video-compression/</link>
+      <link>https://jbegaint.fr/publications/region-based-models-for-motion-compensation-in-video-compression/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/publications/region-based-models-for-motion-compensation-in-video-compression/</guid>
+      <guid>https://jbegaint.fr/publications/region-based-models-for-motion-compensation-in-video-compression/</guid>
       <description>Authors Jean Bégaint, Franck Galpin, Philippe Guillotel and Christine Guillemot
 Abstract Video codecs are primarily designed assuming that rigid, block-based, two-dimensional displacements are suitable models to describe the motion taking place in a scene. However, translational models are not sufficient to handle real world motion types such as camera zoom, shake, pan, shearing or changes in aspect ratio. We present here a region-based inter- prediction scheme to compensate such motion.</description>
     </item>
     
     <item>
       <title>Region-Based Prediction for Image Compression in the Cloud</title>
-      <link>https://jeanbroid.github.io/publications/region-based-prediction-for-image-compression-in-the-cloud/</link>
+      <link>https://jbegaint.fr/publications/region-based-prediction-for-image-compression-in-the-cloud/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/publications/region-based-prediction-for-image-compression-in-the-cloud/</guid>
+      <guid>https://jbegaint.fr/publications/region-based-prediction-for-image-compression-in-the-cloud/</guid>
       <description>Authors Jean Bégaint, Dominique Thoreau, Philippe Guillotel and Christine Guillemot
 Abstract Thanks to the increasing number of images stored in the cloud, external image similarities can be leveraged to efficiently compress images by exploiting inter-images correlations. In this paper, we propose a novel image prediction scheme for cloud storage. Unlike current state-of-the-art methods, we use a semi-local approach to exploit inter-image correlation. The reference image is first segmented into multiple planar regions determined from matched local features and super-pixels.</description>
     </item>
     
     <item>
       <title>PhD Thesis</title>
-      <link>https://jeanbroid.github.io/projects/phd-thesis/</link>
+      <link>https://jbegaint.fr/projects/phd-thesis/</link>
       <pubDate>Sun, 26 Nov 2017 12:27:24 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/projects/phd-thesis/</guid>
+      <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
       <description> In this thesis, we study novel approaches to the image and video compression domain. Recent applications such as cloud-based image compression and new tools for temporal-prediction in video compression are studied.
 Related publications  Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://jeanbroid.github.io/index/</link>
+      <link>https://jbegaint.fr/index/</link>
       <pubDate>Sat, 25 Nov 2017 19:01:10 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/index/</guid>
+      <guid>https://jbegaint.fr/index/</guid>
       <description>I&amp;rsquo;m currently pursuing a PhD at Technicolor and INRIA, studying image compression and enhancement applications for large scale image databases.
 My current research interests include image processing, computer vision and image/video compression.</description>
     </item>
     
     <item>
       <title>Locally-weighted template-matching based prediction for cloud-based image compression</title>
-      <link>https://jeanbroid.github.io/publications/lle-tm-image-compression-cloud/</link>
+      <link>https://jbegaint.fr/publications/lle-tm-image-compression-cloud/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/publications/lle-tm-image-compression-cloud/</guid>
+      <guid>https://jbegaint.fr/publications/lle-tm-image-compression-cloud/</guid>
       <description>Authors Jean Bégaint, Dominique Thoreau, Philippe Guillotel and Mehmet Türkan
 Abstract Thanks to the increasing number of images stored in the cloud, external image redundancies can be leveraged to efficiently compress images by exploiting inter-images correlations. In this paper, we propose a novel cloud-based image coding scheme. Unlike current state-of-the-art systems, our method relies on a data dimensionality reduction technique. A global compensation is associated to a locally-weighted template matching compensation method to predict a reference frame, to be then differential-coded with classic video coding tools.</description>
     </item>

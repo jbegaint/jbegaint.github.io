@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jean Bégaint</title>
-    <link>https://jeanbroid.github.io/projects/</link>
+    <link>https://jbegaint.fr/projects/</link>
     <description>Recent content in Projects on Jean Bégaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Nov 2017 19:09:37 +0100</lastBuildDate>
     
-	<atom:link href="https://jeanbroid.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbegaint.fr/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhD Thesis</title>
-      <link>https://jeanbroid.github.io/projects/phd-thesis/</link>
+      <link>https://jbegaint.fr/projects/phd-thesis/</link>
       <pubDate>Sun, 26 Nov 2017 12:27:24 +0100</pubDate>
       
-      <guid>https://jeanbroid.github.io/projects/phd-thesis/</guid>
+      <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
       <description> In this thesis, we study novel approaches to the image and video compression domain. Recent applications such as cloud-based image compression and new tools for temporal-prediction in video compression are studied.
 Related publications  Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
     </item>
