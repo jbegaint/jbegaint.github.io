@@ -1,0 +1,47 @@
+html {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+body {
+	font-family: 'Muli', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header-link {
+	color: black;
+	font-size: 20px;
+}
+
+.publi-item {
+}
+
+section.main .content .title-container {
+	flex-direction: column;
+}
+
+section.header .container .content {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+section.header .container .content .avatar-section {
+	flex-grow: 0.1;
+	align-self: center;
+}
+
+section.header .container .content .intro-section {
+	flex-grow: 1;
+}
+
+section.header .avatar {
+	max-width: 80px;
+}
+
+section.main .container {
+	min-height: 450px;
+}
+
+section.main .container .content {
+	align-self: flex-start;
+}
