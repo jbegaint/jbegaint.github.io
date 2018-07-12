@@ -38,7 +38,7 @@ Abstract Thanks to the increasing number of images stored in the cloud, external
       
       <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
       <description> In this thesis, we study novel approaches to the image and video compression domain. Recent applications such as cloud-based image compression and new tools for temporal-prediction in video compression are studied.
-Related publications  Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
+Related publications  Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
     </item>
     
     <item>
