@@ -15,6 +15,12 @@ body {
 .publi-item {
 }
 
+@media (min-width: 600px) {
+	section {
+		min-width: 775px;
+	}
+}
+
 section.main .content .title-container {
 	flex-direction: column;
 }
