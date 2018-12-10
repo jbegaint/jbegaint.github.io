@@ -6,10 +6,20 @@
     <description>Recent content in Publications on Jean Bégaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://jbegaint.fr/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep frame interpolation for video compression</title>
+      <link>https://jbegaint.fr/publications/deep-frame-interpolation-for-video-compression/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://jbegaint.fr/publications/deep-frame-interpolation-for-video-compression/</guid>
+      <description>Authors Jean Bégaint, Franck Galpin, Philippe Guillotel and Christine Guillemot
+Abstract Deep neural networks have been recently proposed to solve video interpolation tasks. Given a past and future frame, such networks can be trained to successfully predict the intermediate frame(s). In the context of video compression, these architectures could be useful as an additional inter-prediction mode. Current inter-prediction methods rely on block-matching techniques to estimate the motion between consecutive frames.</description>
+    </item>
     
     <item>
       <title>Region-based models for motion compensation in video compression</title>

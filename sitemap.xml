@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jbegaint.fr/publications/deep-frame-interpolation-for-video-compression/</loc>
+    <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jbegaint.fr/publications/region-based-models-for-motion-compensation-in-video-compression/</loc>
     <lastmod>2018-07-10T00:00:00+01:00</lastmod>
   </url>
@@ -18,22 +23,12 @@
   </url>
   
   <url>
-    <loc>https://jbegaint.fr/projects/</loc>
-    <lastmod>2017-11-25T19:09:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jbegaint.fr/index/</loc>
     <lastmod>2017-11-25T19:01:10+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jbegaint.fr/contact/</loc>
-    <lastmod>2017-11-25T19:01:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jbegaint.fr/resume/</loc>
     <lastmod>2017-11-25T19:01:10+01:00</lastmod>
   </url>
   
@@ -49,13 +44,19 @@
   
   <url>
     <loc>https://jbegaint.fr/</loc>
-    <lastmod>2018-07-10T00:00:00+01:00</lastmod>
+    <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbegaint.fr/projects/</loc>
+    <lastmod>2017-11-26T12:27:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbegaint.fr/publications/</loc>
-    <lastmod>2018-07-10T00:00:00+01:00</lastmod>
+    <lastmod>2018-12-06T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

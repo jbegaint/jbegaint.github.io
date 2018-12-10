@@ -6,19 +6,19 @@
     <description>Recent content in Projects on Jean Bégaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2017 19:09:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2017 12:27:24 +0100</lastBuildDate>
     
 	<atom:link href="https://jbegaint.fr/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PhD Thesis</title>
+      <title>Towards novel inter-prediction methods for image and video compression</title>
       <link>https://jbegaint.fr/projects/phd-thesis/</link>
       <pubDate>Sun, 26 Nov 2017 12:27:24 +0100</pubDate>
       
       <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
-      <description> In this thesis, we study novel approaches to the image and video compression domain. Applications such as cloud-based image compression and video compression are considered.
-Related publications  Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
+      <description> This thesis aims at exploring novel approaches for improving current inter-prediction methods. Such methods leverage redundancies between similar frames, and were originally developed in the context of video compression. Applications such as images set compression (photo albums, cloud databases) and video compression were considered. The last part of the thesis focuses on deep learning approaches for inter-prediction.
+Related publications  Deep frame interpolation for video compression (submitted) Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  3 undisclosed filings  </description>
     </item>
     
   </channel>

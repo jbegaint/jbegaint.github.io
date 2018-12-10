@@ -6,10 +6,20 @@
     <description>Recent content on Jean Bégaint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://jbegaint.fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep frame interpolation for video compression</title>
+      <link>https://jbegaint.fr/publications/deep-frame-interpolation-for-video-compression/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://jbegaint.fr/publications/deep-frame-interpolation-for-video-compression/</guid>
+      <description>Authors Jean Bégaint, Franck Galpin, Philippe Guillotel and Christine Guillemot
+Abstract Deep neural networks have been recently proposed to solve video interpolation tasks. Given a past and future frame, such networks can be trained to successfully predict the intermediate frame(s). In the context of video compression, these architectures could be useful as an additional inter-prediction mode. Current inter-prediction methods rely on block-matching techniques to estimate the motion between consecutive frames.</description>
+    </item>
     
     <item>
       <title>Region-based models for motion compensation in video compression</title>
@@ -32,13 +42,13 @@ Abstract Thanks to the increasing number of images stored in the cloud, external
     </item>
     
     <item>
-      <title>PhD Thesis</title>
+      <title>Towards novel inter-prediction methods for image and video compression</title>
       <link>https://jbegaint.fr/projects/phd-thesis/</link>
       <pubDate>Sun, 26 Nov 2017 12:27:24 +0100</pubDate>
       
       <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
-      <description> In this thesis, we study novel approaches to the image and video compression domain. Applications such as cloud-based image compression and video compression are considered.
-Related publications  Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  1 undisclosed patent  </description>
+      <description> This thesis aims at exploring novel approaches for improving current inter-prediction methods. Such methods leverage redundancies between similar frames, and were originally developed in the context of video compression. Applications such as images set compression (photo albums, cloud databases) and video compression were considered. The last part of the thesis focuses on deep learning approaches for inter-prediction.
+Related publications  Deep frame interpolation for video compression (submitted) Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  3 undisclosed filings  </description>
     </item>
     
     <item>
@@ -47,8 +57,8 @@ Related publications  Region-based models for motion compensation in video compr
       <pubDate>Sat, 25 Nov 2017 19:01:10 +0100</pubDate>
       
       <guid>https://jbegaint.fr/index/</guid>
-      <description>I&amp;rsquo;m currently pursuing a PhD at Technicolor and INRIA, working on new solutions for image and video compression applications using computer vision and deep learning techniques.
-My current research interests include image processing, computer vision, image/video compression and deep learning.</description>
+      <description>I recently received a PhD in signal processing while working at Technicolor and INRIA on new solutions for image and video compression applications, using computer vision and deep learning techniques.
+My current research interests include image/video compression, image processing, computer vision, and deep learning.</description>
     </item>
     
     <item>
