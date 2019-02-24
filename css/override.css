@@ -12,9 +12,6 @@ body {
 	font-size: 20px;
 }
 
-.publi-item {
-}
-
 @media (min-width: 600px) {
 	section {
 		min-width: 775px;
