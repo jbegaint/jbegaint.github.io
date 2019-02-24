@@ -3,13 +3,9 @@ html {
 	margin: 0 auto;
 }
 
-body {
-	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
 .header-link {
 	color: black;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 @media (min-width: 600px) {
@@ -30,11 +26,27 @@ section.header .container .content {
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-start;
+	align-items: center;
+}
+
+@media(max-width: 600px) {
+	section.header .container .content {
+		flex-direction: column;
+	}
+
+	section.header .container .content .intro-section {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	section.header h3.self-intro {
+		text-align: center;
+	}
 }
 
 section.header .container .content .avatar-section {
-	flex-grow: 0.1;
-	align-self: center;
+	margin-right: 0.5em;
 }
 
 section.header .container .content .intro-section {
