@@ -48,7 +48,7 @@ Abstract Thanks to the increasing number of images stored in the cloud, external
       
       <guid>https://jbegaint.fr/projects/phd-thesis/</guid>
       <description> This thesis aims at exploring novel approaches for improving current inter-prediction methods. Such methods leverage redundancies between similar frames, and were originally developed in the context of video compression. Applications such as images set compression (photo albums, cloud databases) and video compression were considered. The last part of the thesis focuses on deep learning approaches for inter-prediction.
-Related publications  Deep frame interpolation for video compression (submitted) Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  3 undisclosed filings  </description>
+Related publications  Deep frame interpolation for video compression (DCC 2019) Region-based models for motion compensation in video compression (PCS 2018) Region Based Prediction for Image Compression in the Cloud (TIP 2017) Locally-weighted template-matching based prediction for … (DCC 2016)  Related Patents  3 undisclosed filings  </description>
     </item>
     
     <item>
