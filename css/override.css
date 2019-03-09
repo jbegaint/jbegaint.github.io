@@ -12,6 +12,11 @@ html {
 	section {
 		min-width: 775px;
 	}
+
+	section.header .container .content .avatar-section {
+		margin-right: 1.584962;
+	}
+
 }
 
 section.header .name {
@@ -43,10 +48,6 @@ section.header .container .content {
 	section.header h3.self-intro {
 		text-align: center;
 	}
-}
-
-section.header .container .content .avatar-section {
-	margin-right: 0.5em;
 }
 
 section.header .container .content .intro-section {
