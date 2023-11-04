@@ -1,5 +1,0 @@
-User-agent: *
-sitemap: /sitemap.xml
-Allow: /$
-Allow: /sitemap.xml
-Disallow: /
